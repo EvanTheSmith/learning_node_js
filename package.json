@@ -9,7 +9,7 @@
   "author": "Evan Smith",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^2.4.2",
-    "underscore": "^1.4.0"
+    "mongoose": "^6.8.3",
+    "underscore": "^1.13.6"
   }
 }
