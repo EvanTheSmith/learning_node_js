@@ -1,0 +1,1 @@
+This directory and code is a learning aid to follow along with The Complete Node.js Course by Mosh Hamedani.
